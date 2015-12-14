@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Approaching Space]]></title>
+        <description><![CDATA[Approaching Space]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 10:15:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Civilization - Beyond Earth]]></title>
+            <description><![CDATA[<article><h1>Civilization - Beyond Earth</h1><p>I find this game very interesting, since it has so many ideas about the future of humanity, our own planet and the next possible planet we might settle on. There are three affinities you can choose in the game, all very different and they all come up with how we might evolve as a species....</p><img src="https://i0.wp.com/approachingspace.files.wordpress.com/2015/09/hpmarquee_beyondearth.jpg?fit=440%2C330"></article>]]></description>
+            <link>https://approachingspace.wordpress.com/2015/09/04/civilization-beyond-earth/</link>
+            <guid isPermaLink="false">0cce1937-50ff-4444-93a7-1cb385948846</guid>
+            <pubDate>Mon, 14 Dec 2015 10:15:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
